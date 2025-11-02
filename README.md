@@ -148,7 +148,7 @@ git push -u origin main
 
 7. **Subir los cambios al repositorio remoto forzadamente-no es la mejor opcion**
  ```bash
-git push -u origin main
+git push -u origin main --force
 ```
 <p align="center">
   <img src="imagenes/force.png" width="400">
