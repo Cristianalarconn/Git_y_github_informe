@@ -146,7 +146,15 @@ git push -u origin main
   <img src="imagenes/subirRepositorio.png" width="400">
     </p>
 
-7. **Verificar en GitHub**  
+7. **Subir los cambios al repositorio remoto forzadamente-no es la mejor opcion**
+ ```bash
+git push -u origin main
+```
+<p align="center">
+  <img src="imagenes/force.png" width="400">
+    </p>
+
+8. **Verificar en GitHub**  
 Abrir el repositorio en GitHub y revisar que los archivos esten ahi  
 
 *El proceso anterior fue desarrollado por medio de Git Bash, pero tambien puede ejecutarse desde la terminal de Visual Studio Code, a excepcion de algunos comandos*  
