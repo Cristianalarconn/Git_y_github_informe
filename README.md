@@ -72,9 +72,9 @@ En resumen
 
 | Comando | Descripcion |
 |----------|--------------|
-| `git init` | Inicializa un nuevo repositorio Git en una carpeta local como decir crea un un .git |
+| `git init` | Inicializa un nuevo repositorio Git en una carpeta local es decir crea un .git |
 | `git status` | Muestra los archivos modificados nuevos o eliminados  |
-| `git add .` | Agrega todos los cambios al area de preparación por que tiene el(.), se puede seleccionar por aparte archivos |
+| `git add .` | Agrega todos los cambios al area de preparación por que tiene el(.), se puede seleccionar por aparte cada archivos |
 | `git commit -m "cambio"` | Guarda los cambios con un mensaje que describe sobre lo que modificamos o subimos |
 | `git log` | Muestra el historial de commits realizados |
 | `git remote add origin URL` | Conecta nuestra carpeta local con un repositorio en GitHub |
@@ -109,7 +109,7 @@ En resumen
 ```
 
    <p align="center">
-  <img src="imagenes/inicializacion.png" width="400">
+  <img src="imagenes/Inicializacion.png" width="400">
     </p>
 
 
